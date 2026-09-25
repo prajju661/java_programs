@@ -1,0 +1,4 @@
+abstract class Delivery {
+
+    abstract void deliver();
+}
